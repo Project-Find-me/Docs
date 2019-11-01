@@ -29,25 +29,25 @@ A identificação do prestador e tomador de serviços com as especificaçõ
   > Os tomadores e prestadores, fazer um cadastro informando os dados de pessoa juridica e fisica.
 
 * Histórico de Serviços prestados e avaliações.
- > Um gerenciador dos históricos de serviços prestados e avaliação do mesmo, onde ambas as partes podem fazer uma avaliação.
+  > Um gerenciador dos históricos de serviços prestados e avaliação do mesmo, onde ambas as partes podem fazer uma avaliação.
 
 * Mecanismo de avaliação dos serviços prestados e oferecidos.
- > Um mecanismo para cada usuários realizem as avaliações dos serviços prestados e oferecidos. em nível de avaliativo de 1 a 5.
+  > Um mecanismo para cada usuários realizem as avaliações dos serviços prestados e oferecidos. em nível de avaliativo de 1 a 5.
 
 * Facilidade na comunicação entre o tomador e prestador de serviços.
- > Um facilitador de comunicação com envio instantâneo de mensagem ( chat )
+  > Um facilitador de comunicação com envio instantâneo de mensagem ( chat )
 
 * Gerenciamento de ordens de serviço prestado.
- > Um gerador de ordens de serviço dos serviços, com detalhamento do tempo previsto, data do agendamento, valores acordados e informações do prestador e tomador de serviços
+  > Um gerador de ordens de serviço dos serviços, com detalhamento do tempo previsto, data do agendamento, valores acordados e informações do prestador e tomador de serviços
 
 * Controle de Garantia do serviço prestados com data de validade .
- > Um controle de garantia dos serviços prestados com um prazo de validade, para os serviços feito por categorias.
+  > Um controle de garantia dos serviços prestados com um prazo de validade, para os serviços feito por categorias.
 
 * Facilidade na geolocalização do prestador e tomador de serviços.
- > Facilitadores de geolocalização para informar ao usuário a disponibilidade de oferta do serviço procurado.
+  > Facilitadores de geolocalização para informar ao usuário a disponibilidade de oferta do serviço procurado.
 
 * Plano de fidelidade com Oferta e Promoções para os usuários da plataforma.
- > Um gerenciador de plano de fidelidade para os usuários que atingirem um nível de negociação com estipulação de um valor de compra via plataforma.
+  > Um gerenciador de plano de fidelidade para os usuários que atingirem um nível de negociação com estipulação de um valor de compra via plataforma.
 
 * Faixa de preço dos serviços
   > Um mecanismo de para facilitar a busca de serviço pela uma faixa de preço.
